@@ -1,0 +1,500 @@
+﻿used_id,signup_date,last_active_date,plan_type,country,acquisition_channel,avg_session_time,feature_used,Revenue,churn_flag,retention_days
+U0002,01-11-2024,01-07-2025,Basic,USA,Referral,42,Export,554,1,242
+U0003,21-10-2023,24-05-2024,Premium,Canada,Social Media,77,Export,2066,1,216
+U0004,01-03-2024,12-03-2024,Free,Germany,Ads,16,Export,0,1,11
+U0005,08-06-2024,07-02-2025,Premium,India,Organic,67,Analytics,3992,1,244
+U0006,19-03-2024,14-12-2024,Premium,UK,Organic,49,Dashboard,1456,1,270
+U0007,11-06-2023,07-05-2024,Basic,USA,Organic,18,Export,140,1,331
+U0008,10-04-2024,18-09-2024,Basic,Canada,Ads,31,Dashboard,877,1,161
+U0009,17-09-2023,28-04-2024,Basic,USA,Social Media,36,Dashboard,811,1,224
+U0010,04-09-2023,21-01-2024,Free,UK,Organic,4,Dashboard,0,1,139
+U0011,30-03-2025,12-04-2025,Premium,Germany,Ads,38,Dashboard,2923,1,13
+U0012,08-01-2024,20-05-2024,Premium,Australia,Social Media,78,Dashboard,4589,1,133
+U0013,04-07-2023,05-08-2023,Basic,Canada,Organic,11,Automation,615,1,32
+U0014,21-01-2025,18-05-2025,Premium,USA,Ads,99,Dashboard,4905,1,117
+U0015,06-05-2025,10-05-2025,Basic,UK,Referral,39,Reports,775,1,4
+U0016,27-08-2025,04-10-2025,Free,Australia,Ads,13,Dashboard,0,1,38
+U0017,22-09-2023,26-05-2024,Basic,USA,Social Media,44,Dashboard,140,1,247
+U0018,26-05-2024,23-07-2024,Basic,Australia,Social Media,29,Dashboard,411,1,58
+U0019,02-03-2023,08-03-2023,Free,USA,Ads,6,Dashboard,0,1,6
+U0020,06-06-2023,27-09-2023,Basic,Germany,Social Media,49,Export,923,1,113
+U0021,08-08-2024,02-01-2025,Free,Australia,Organic,10,Automation,0,1,147
+U0022,09-06-2025,18-04-2026,Free,India,Organic,12,Automation,0,0,313
+U0023,13-06-2025,06-12-2025,Free,Australia,Organic,6,Export,0,1,176
+U0024,10-08-2024,13-04-2025,Basic,Australia,Social Media,14,Dashboard,803,1,246
+U0025,25-07-2025,17-05-2026,Free,USA,Social Media,20,Analytics,0,0,296
+U0026,26-11-2023,05-02-2024,Free,Australia,Ads,4,Dashboard,0,1,71
+U0027,23-04-2023,11-05-2023,Premium,Germany,Referral,67,Automation,2988,1,18
+U0028,02-03-2024,13-06-2024,Basic,Australia,Organic,31,Export,448,1,103
+U0029,16-07-2025,17-12-2025,Premium,Canada,Referral,59,Export,4337,1,154
+U0030,01-05-2024,27-04-2025,Premium,India,Referral,72,Reports,4147,1,361
+U0031,14-12-2023,24-07-2024,Basic,India,Social Media,10,Export,753,1,223
+U0032,07-03-2024,17-11-2024,Basic,India,Organic,28,Automation,810,1,255
+U0033,14-06-2025,01-05-2026,Basic,Canada,Social Media,45,Dashboard,247,0,321
+U0034,23-02-2023,10-02-2024,Premium,UK,Ads,55,Automation,2169,1,352
+U0035,28-03-2023,01-12-2023,Free,Australia,Organic,19,Automation,0,1,248
+U0036,07-04-2023,10-02-2024,Free,India,Organic,18,Dashboard,0,1,309
+U0037,04-04-2023,20-02-2024,Premium,Australia,Organic,86,Export,2990,1,322
+U0038,12-01-2023,04-06-2023,Premium,USA,Referral,82,Export,3424,1,143
+U0039,16-05-2024,09-10-2024,Free,Germany,Social Media,3,Dashboard,0,1,146
+U0040,10-03-2024,26-09-2024,Free,India,Ads,11,Automation,0,1,200
+U0041,09-06-2024,14-04-2025,Premium,Canada,Social Media,46,Analytics,3672,1,309
+U0042,29-08-2024,15-03-2025,Premium,UK,Social Media,62,Reports,2412,1,198
+U0043,20-08-2023,27-10-2023,Basic,Germany,Organic,42,Reports,598,1,68
+U0044,21-04-2025,16-11-2025,Premium,Australia,Organic,32,Export,2870,1,209
+U0045,23-12-2024,23-05-2025,Premium,USA,Ads,92,Reports,1603,1,151
+U0046,07-10-2024,09-02-2025,Basic,Australia,Ads,36,Analytics,197,1,125
+U0047,02-04-2023,31-03-2024,Free,India,Social Media,16,Analytics,0,1,364
+U0048,15-06-2024,17-01-2025,Free,USA,Ads,6,Dashboard,0,1,216
+U0049,30-07-2024,12-12-2024,Basic,UK,Referral,42,Dashboard,524,1,135
+U0050,21-11-2025,01-12-2025,Basic,India,Ads,30,Analytics,152,1,10
+U0051,15-05-2025,10-02-2026,Free,UK,Ads,20,Analytics,0,1,271
+U0052,03-11-2024,23-08-2025,Free,UK,Referral,19,Analytics,0,1,293
+U0053,29-05-2023,16-11-2023,Free,USA,Social Media,14,Dashboard,0,1,171
+U0054,23-03-2024,11-10-2024,Basic,India,Organic,30,Automation,459,1,202
+U0055,11-09-2023,23-11-2023,Free,USA,Ads,10,Reports,0,1,73
+U0056,20-07-2023,03-03-2024,Basic,UK,Organic,46,Analytics,545,1,227
+U0057,01-06-2024,27-02-2025,Free,Germany,Ads,16,Analytics,0,1,271
+U0058,22-06-2023,22-08-2023,Free,Australia,Organic,1,Reports,0,1,61
+U0059,11-01-2025,01-06-2025,Premium,Germany,Ads,80,Dashboard,4954,1,141
+U0060,19-06-2024,22-08-2024,Premium,Germany,Organic,52,Dashboard,3831,1,64
+U0061,12-08-2024,26-05-2025,Free,Germany,Organic,11,Dashboard,0,1,287
+U0062,08-05-2023,01-10-2023,Basic,Canada,Social Media,44,Automation,807,1,146
+U0063,13-04-2024,15-08-2024,Free,India,Ads,15,Analytics,0,1,124
+U0064,04-07-2025,19-02-2026,Premium,Germany,Referral,33,Automation,4516,1,230
+U0065,28-04-2025,13-03-2026,Free,USA,Social Media,15,Dashboard,0,1,319
+U0066,04-03-2025,05-07-2025,Free,Canada,Social Media,15,Reports,0,1,123
+U0067,10-01-2023,22-12-2023,Premium,UK,Ads,59,Automation,3607,1,346
+U0068,22-01-2023,04-03-2023,Basic,Canada,Organic,34,Automation,269,1,41
+U0069,08-11-2025,07-03-2026,Basic,Australia,Referral,20,Dashboard,934,1,119
+U0070,24-10-2025,14-09-2026,Free,UK,Social Media,13,Automation,0,0,325
+U0071,27-11-2023,23-01-2024,Premium,Canada,Organic,42,Automation,4640,1,57
+U0072,04-01-2025,03-10-2025,Free,USA,Ads,20,Dashboard,0,1,272
+U0073,07-06-2025,18-08-2025,Basic,USA,Social Media,14,Export,920,1,72
+U0074,07-04-2024,17-08-2024,Basic,Germany,Social Media,33,Reports,754,1,132
+U0075,31-12-2024,24-03-2025,Basic,Germany,Social Media,23,Reports,554,1,83
+U0076,13-04-2023,11-03-2024,Free,Germany,Ads,10,Dashboard,0,1,333
+U0077,09-05-2023,06-01-2024,Free,UK,Referral,5,Dashboard,0,1,242
+U0078,01-09-2025,20-10-2025,Basic,India,Ads,16,Analytics,319,1,49
+U0079,16-09-2025,31-08-2026,Free,India,Referral,10,Automation,0,0,349
+U0080,27-06-2023,01-07-2023,Free,UK,Ads,4,Export,0,1,4
+U0081,11-04-2024,14-06-2024,Basic,India,Referral,13,Export,380,1,64
+U0082,15-09-2025,05-07-2026,Basic,UK,Ads,31,Automation,267,0,293
+U0083,31-12-2024,11-10-2025,Basic,Canada,Referral,14,Analytics,633,1,284
+U0084,16-07-2025,10-12-2025,Basic,USA,Referral,22,Export,257,1,147
+U0085,07-01-2025,17-12-2025,Free,UK,Ads,6,Export,0,1,344
+U0086,25-09-2024,12-12-2024,Premium,India,Social Media,97,Analytics,2472,1,78
+U0087,07-04-2025,12-01-2026,Premium,Germany,Organic,61,Export,3724,1,280
+U0088,06-10-2024,14-06-2025,Basic,Australia,Ads,35,Automation,169,1,251
+U0089,23-10-2023,26-11-2023,Premium,USA,Ads,43,Automation,1705,1,34
+U0090,20-09-2025,14-04-2026,Basic,Australia,Social Media,42,Reports,354,0,206
+U0091,20-01-2025,05-07-2025,Basic,USA,Ads,43,Export,585,1,166
+U0092,25-01-2023,06-10-2023,Basic,Canada,Referral,40,Reports,900,1,254
+U0093,11-01-2025,23-02-2025,Free,USA,Organic,18,Export,0,1,43
+U0094,12-03-2025,18-01-2026,Premium,USA,Organic,49,Dashboard,3790,1,312
+U0095,10-02-2024,14-08-2024,Free,UK,Ads,11,Automation,0,1,186
+U0096,10-08-2024,16-08-2024,Free,Germany,Referral,20,Reports,0,1,6
+U0097,21-09-2023,06-06-2024,Free,UK,Organic,14,Export,0,1,259
+U0098,01-04-2024,20-01-2025,Premium,Canada,Ads,53,Analytics,2142,1,294
+U0099,05-10-2024,30-07-2025,Free,India,Organic,4,Export,0,1,298
+U0100,01-07-2024,18-11-2024,Premium,India,Referral,65,Automation,2621,1,140
+U0101,12-02-2023,25-06-2023,Premium,UK,Ads,64,Reports,1214,1,133
+U0102,02-11-2024,17-07-2025,Basic,Australia,Referral,42,Reports,138,1,257
+U0103,10-01-2024,17-06-2024,Free,UK,Ads,12,Analytics,0,1,159
+U0104,27-11-2025,07-07-2026,Basic,Germany,Ads,45,Dashboard,850,0,222
+U0105,20-12-2025,08-02-2026,Basic,Canada,Social Media,36,Automation,663,1,50
+U0106,16-06-2024,16-12-2024,Free,USA,Social Media,17,Analytics,0,1,183
+U0107,18-03-2024,10-04-2024,Premium,UK,Social Media,57,Export,2614,1,23
+U0108,09-11-2025,09-11-2026,Premium,Germany,Referral,98,Export,1740,0,365
+U0109,19-03-2024,22-06-2024,Premium,India,Social Media,89,Automation,1804,1,95
+U0110,23-02-2025,19-03-2025,Premium,Canada,Referral,69,Export,1973,1,24
+U0111,25-10-2023,28-05-2024,Premium,Australia,Referral,45,Reports,1541,1,216
+U0112,24-03-2023,04-04-2023,Basic,Germany,Ads,36,Automation,409,1,11
+U0113,20-09-2023,26-12-2023,Premium,UK,Referral,55,Reports,4426,1,97
+U0114,18-01-2024,25-06-2024,Free,Australia,Social Media,8,Analytics,0,1,159
+U0115,24-08-2025,15-06-2026,Basic,UK,Organic,26,Analytics,621,0,295
+U0116,31-07-2024,02-10-2024,Premium,Canada,Social Media,52,Export,3094,1,63
+U0117,03-04-2024,20-05-2024,Basic,UK,Ads,14,Export,700,1,47
+U0118,21-09-2024,21-08-2025,Premium,UK,Social Media,41,Reports,1932,1,334
+U0119,15-07-2025,16-06-2026,Free,Germany,Ads,3,Automation,0,0,336
+U0120,06-12-2024,07-01-2025,Premium,UK,Social Media,84,Automation,1690,1,32
+U0121,16-01-2023,18-05-2023,Basic,Canada,Ads,11,Export,968,1,122
+U0122,05-06-2023,27-05-2024,Premium,India,Organic,44,Dashboard,1933,1,357
+U0123,04-11-2024,07-01-2025,Free,Canada,Organic,3,Analytics,0,1,64
+U0124,12-12-2023,09-01-2024,Free,Australia,Social Media,16,Analytics,0,1,28
+U0125,11-05-2024,04-08-2024,Basic,India,Social Media,32,Reports,232,1,85
+U0126,18-08-2023,05-11-2023,Free,India,Ads,9,Dashboard,0,1,79
+U0127,26-02-2025,24-04-2025,Free,India,Organic,11,Export,0,1,57
+U0128,24-03-2025,23-07-2025,Premium,India,Social Media,99,Export,2244,1,121
+U0129,15-11-2025,19-06-2026,Premium,Canada,Ads,100,Reports,2071,0,216
+U0130,29-07-2025,29-04-2026,Premium,UK,Organic,60,Dashboard,2360,0,274
+U0131,02-09-2023,01-03-2024,Free,Germany,Organic,5,Automation,0,1,181
+U0132,14-06-2023,04-10-2023,Basic,UK,Organic,12,Analytics,606,1,112
+U0133,17-08-2024,29-09-2024,Basic,Australia,Social Media,30,Export,146,1,43
+U0134,23-01-2023,08-06-2023,Premium,Australia,Social Media,86,Reports,2410,1,136
+U0135,08-02-2023,22-02-2023,Free,UK,Ads,4,Automation,0,1,14
+U0136,09-11-2025,20-04-2026,Premium,USA,Referral,63,Dashboard,4631,0,162
+U0137,24-06-2025,03-10-2025,Premium,India,Social Media,46,Analytics,1257,1,101
+U0138,12-01-2025,28-07-2025,Basic,Australia,Referral,45,Reports,985,1,197
+U0139,07-04-2023,12-06-2023,Free,UK,Ads,20,Analytics,0,1,66
+U0140,07-02-2023,31-12-2023,Basic,USA,Referral,37,Dashboard,881,1,327
+U0141,19-06-2024,19-11-2024,Premium,India,Referral,100,Reports,3883,1,153
+U0142,09-01-2025,04-03-2025,Free,India,Referral,15,Reports,0,1,54
+U0143,25-12-2024,04-06-2025,Free,India,Ads,3,Automation,0,1,161
+U0144,25-10-2025,12-08-2026,Basic,UK,Social Media,11,Automation,840,0,291
+U0145,13-04-2024,02-06-2024,Free,USA,Ads,20,Export,0,1,50
+U0146,06-08-2025,16-02-2026,Basic,India,Referral,24,Analytics,840,1,194
+U0147,21-10-2025,23-01-2026,Premium,Germany,Organic,69,Export,1378,1,94
+U0148,27-07-2025,20-05-2026,Basic,Germany,Ads,20,Export,693,0,297
+U0149,02-04-2023,01-09-2023,Free,UK,Social Media,14,Analytics,0,1,152
+U0150,29-10-2023,29-08-2024,Premium,USA,Organic,35,Export,1678,1,305
+U0151,27-12-2024,13-11-2025,Basic,Germany,Ads,42,Reports,968,1,321
+U0152,29-05-2025,05-10-2025,Premium,Canada,Social Media,90,Analytics,1596,1,129
+U0153,02-11-2023,31-08-2024,Basic,Canada,Referral,46,Automation,972,1,303
+U0154,18-01-2025,27-07-2025,Basic,Germany,Ads,13,Analytics,732,1,190
+U0155,24-04-2023,27-08-2023,Free,Germany,Ads,1,Reports,0,1,125
+U0156,26-03-2024,12-03-2025,Premium,Germany,Social Media,96,Automation,2029,1,351
+U0157,05-06-2025,22-09-2025,Free,India,Organic,14,Automation,0,1,109
+U0158,18-10-2023,25-03-2024,Premium,Germany,Referral,80,Reports,2562,1,159
+U0159,05-08-2025,23-06-2026,Free,USA,Ads,1,Dashboard,0,0,322
+U0160,05-09-2024,11-03-2025,Basic,Germany,Social Media,16,Dashboard,569,1,187
+U0161,12-05-2024,17-10-2024,Free,USA,Ads,12,Reports,0,1,158
+U0162,25-12-2023,25-08-2024,Basic,India,Organic,19,Reports,901,1,244
+U0163,26-07-2025,14-07-2026,Basic,USA,Referral,50,Dashboard,556,0,353
+U0164,06-10-2025,28-11-2025,Basic,USA,Referral,24,Reports,600,1,53
+U0165,02-04-2025,21-10-2025,Free,Canada,Organic,11,Dashboard,0,1,202
+U0166,01-07-2024,25-04-2025,Free,Canada,Ads,18,Reports,0,1,298
+U0167,19-02-2024,06-06-2024,Basic,UK,Ads,38,Dashboard,953,1,108
+U0168,17-06-2023,16-05-2024,Premium,Australia,Organic,54,Automation,3098,1,334
+U0169,31-12-2024,30-05-2025,Basic,India,Social Media,42,Export,165,1,150
+U0170,31-03-2023,16-05-2023,Free,Canada,Ads,5,Export,0,1,46
+U0171,15-06-2023,30-07-2023,Premium,India,Ads,75,Automation,4017,1,45
+U0172,01-12-2023,26-03-2024,Basic,Germany,Social Media,10,Reports,488,1,116
+U0173,06-07-2025,29-01-2026,Premium,USA,Social Media,75,Reports,2319,1,207
+U0174,17-08-2024,04-10-2024,Premium,Australia,Ads,33,Dashboard,3375,1,48
+U0175,19-01-2025,12-06-2025,Free,Canada,Referral,5,Export,0,1,144
+U0176,15-01-2025,31-01-2025,Free,India,Social Media,1,Automation,0,1,16
+U0177,28-05-2025,05-08-2025,Basic,Canada,Referral,16,Analytics,235,1,69
+U0178,04-12-2025,25-01-2026,Premium,UK,Social Media,51,Reports,4181,1,52
+U0179,22-09-2025,01-08-2026,Basic,Canada,Referral,49,Automation,785,0,313
+U0180,15-04-2023,26-09-2023,Free,Germany,Referral,18,Export,0,1,164
+U0181,26-03-2024,28-11-2024,Basic,UK,Social Media,45,Reports,715,1,247
+U0182,11-04-2025,06-10-2025,Basic,Germany,Referral,43,Dashboard,325,1,178
+U0183,09-02-2025,15-04-2025,Free,India,Social Media,9,Analytics,0,1,65
+U0184,10-06-2025,30-06-2025,Basic,Canada,Referral,31,Analytics,972,1,20
+U0185,16-06-2025,29-06-2025,Basic,Canada,Organic,41,Export,610,1,13
+U0186,14-10-2024,07-04-2025,Free,Germany,Referral,13,Automation,0,1,175
+U0187,19-08-2025,22-07-2026,Basic,India,Social Media,28,Automation,986,0,337
+U0188,23-11-2025,13-12-2025,Free,UK,Social Media,7,Export,0,1,20
+U0189,14-03-2024,28-04-2024,Premium,UK,Organic,76,Automation,3937,1,45
+U0190,05-10-2023,07-11-2023,Basic,Germany,Referral,36,Dashboard,523,1,33
+U0191,12-04-2025,18-11-2025,Free,UK,Referral,18,Analytics,0,1,220
+U0192,04-10-2023,31-01-2024,Basic,Australia,Ads,44,Automation,812,1,119
+U0193,25-09-2025,31-01-2026,Free,Australia,Ads,5,Export,0,1,128
+U0194,11-12-2025,31-12-2025,Basic,UK,Referral,12,Export,631,1,20
+U0195,01-10-2025,12-01-2026,Premium,UK,Organic,57,Reports,1893,1,103
+U0196,09-07-2025,31-01-2026,Premium,India,Referral,32,Dashboard,4952,1,206
+U0197,14-08-2025,07-07-2026,Free,UK,Social Media,1,Export,0,0,327
+U0198,02-02-2023,18-10-2023,Premium,UK,Organic,74,Automation,2620,1,258
+U0199,15-11-2024,07-12-2024,Basic,India,Referral,46,Export,270,1,22
+U0200,25-07-2023,12-06-2024,Basic,UK,Referral,42,Reports,363,1,323
+U0201,07-11-2025,30-11-2025,Premium,Australia,Ads,59,Dashboard,3221,1,23
+U0202,08-08-2024,08-03-2025,Free,India,Social Media,14,Dashboard,0,1,212
+U0203,30-04-2025,18-03-2026,Premium,India,Ads,61,Dashboard,4036,1,322
+U0204,07-01-2025,26-02-2025,Basic,India,Organic,46,Dashboard,843,1,50
+U0205,28-12-2024,28-11-2025,Free,India,Ads,10,Export,0,1,335
+U0206,02-09-2025,20-02-2026,Premium,UK,Ads,85,Analytics,1675,1,171
+U0207,10-01-2025,25-12-2025,Basic,USA,Referral,25,Automation,186,1,349
+U0208,30-04-2024,11-10-2024,Basic,Canada,Social Media,30,Automation,431,1,164
+U0209,30-10-2023,04-12-2023,Free,UK,Ads,13,Dashboard,0,1,35
+U0210,29-08-2024,05-04-2025,Basic,USA,Social Media,37,Reports,135,1,219
+U0211,02-08-2024,17-06-2025,Basic,India,Ads,48,Export,368,1,319
+U0212,30-10-2025,03-12-2025,Free,Germany,Ads,8,Reports,0,1,34
+U0213,17-12-2023,24-06-2024,Premium,USA,Social Media,48,Export,3579,1,190
+U0214,14-01-2023,06-06-2023,Basic,Canada,Organic,35,Automation,530,1,143
+U0215,27-07-2024,08-05-2025,Premium,UK,Social Media,57,Analytics,4540,1,285
+U0216,29-10-2025,16-06-2026,Premium,Australia,Social Media,80,Analytics,1462,0,230
+U0217,02-05-2024,14-09-2024,Free,India,Referral,7,Export,0,1,135
+U0218,06-06-2024,30-03-2025,Premium,Australia,Social Media,72,Analytics,4559,1,297
+U0219,18-06-2025,04-02-2026,Free,UK,Referral,6,Analytics,0,1,231
+U0220,06-12-2025,04-10-2026,Premium,Canada,Referral,33,Reports,4678,0,302
+U0221,07-06-2023,08-11-2023,Free,India,Ads,14,Reports,0,1,154
+U0222,14-01-2023,28-10-2023,Premium,Germany,Ads,99,Analytics,1091,1,287
+U0223,27-11-2025,06-07-2026,Basic,India,Organic,43,Export,945,0,221
+U0224,31-03-2025,13-04-2025,Basic,UK,Referral,45,Reports,217,1,13
+U0225,30-11-2025,22-07-2026,Premium,Germany,Social Media,47,Automation,3413,0,234
+U0226,30-04-2023,07-04-2024,Premium,Germany,Organic,95,Automation,3500,1,343
+U0227,21-01-2025,11-12-2025,Basic,USA,Organic,48,Analytics,705,1,324
+U0228,19-09-2025,20-02-2026,Basic,USA,Ads,48,Export,557,1,154
+U0229,02-11-2024,05-02-2025,Free,Germany,Organic,16,Dashboard,0,1,95
+U0230,03-09-2023,06-06-2024,Premium,Germany,Organic,83,Reports,3796,1,277
+U0231,14-02-2024,20-02-2024,Premium,Canada,Organic,89,Reports,4861,1,6
+U0232,26-05-2025,10-04-2026,Free,UK,Organic,6,Analytics,0,0,319
+U0233,18-06-2023,07-09-2023,Premium,USA,Organic,81,Analytics,2364,1,81
+U0234,22-03-2025,19-09-2025,Free,Australia,Referral,10,Automation,0,1,181
+U0235,15-03-2025,28-09-2025,Premium,Germany,Referral,88,Dashboard,1761,1,197
+U0236,11-12-2023,16-03-2024,Free,Canada,Social Media,18,Analytics,0,1,96
+U0237,24-12-2025,18-06-2026,Premium,Australia,Referral,95,Reports,4162,0,176
+U0238,14-06-2023,02-03-2024,Premium,Canada,Ads,36,Automation,2734,1,262
+U0239,25-07-2024,07-04-2025,Basic,USA,Referral,35,Export,390,1,256
+U0240,05-10-2025,20-06-2026,Free,USA,Social Media,3,Export,0,0,258
+U0241,04-09-2023,30-03-2024,Premium,USA,Social Media,54,Automation,1026,1,208
+U0242,28-02-2025,06-04-2025,Free,UK,Referral,9,Reports,0,1,37
+U0243,08-07-2024,09-09-2024,Basic,Canada,Referral,11,Reports,411,1,63
+U0244,29-11-2023,28-09-2024,Premium,Canada,Ads,45,Automation,1439,1,304
+U0245,03-09-2025,04-02-2026,Free,USA,Social Media,16,Dashboard,0,1,154
+U0246,23-08-2024,15-07-2025,Free,India,Social Media,5,Dashboard,0,1,326
+U0247,15-04-2023,07-05-2023,Basic,UK,Social Media,43,Analytics,176,1,22
+U0248,19-09-2024,26-03-2025,Premium,Australia,Organic,59,Reports,4529,1,188
+U0249,19-05-2024,09-07-2024,Premium,UK,Social Media,73,Dashboard,1648,1,51
+U0250,18-03-2023,18-01-2024,Premium,UK,Social Media,50,Automation,2282,1,306
+U0251,27-03-2024,29-03-2024,Free,USA,Organic,17,Export,0,1,2
+U0252,29-03-2025,06-12-2025,Basic,India,Social Media,25,Reports,842,1,252
+U0253,24-01-2025,27-02-2025,Basic,Canada,Ads,33,Automation,238,1,34
+U0254,17-02-2025,11-09-2025,Basic,Germany,Organic,21,Export,343,1,206
+U0255,14-05-2023,22-08-2023,Basic,Australia,Referral,28,Export,412,1,100
+U0256,27-10-2025,04-04-2026,Premium,India,Organic,95,Dashboard,3280,0,159
+U0257,08-11-2025,28-11-2025,Basic,Germany,Social Media,16,Dashboard,559,1,20
+U0258,13-10-2024,02-10-2025,Premium,UK,Social Media,31,Export,3319,1,354
+U0259,04-07-2023,27-01-2024,Basic,USA,Organic,48,Dashboard,817,1,207
+U0260,12-06-2024,03-02-2025,Basic,Canada,Social Media,25,Reports,263,1,236
+U0261,13-03-2023,22-10-2023,Free,USA,Social Media,9,Dashboard,0,1,223
+U0262,02-03-2025,13-12-2025,Free,Australia,Referral,10,Dashboard,0,1,286
+U0263,10-03-2025,29-04-2025,Free,Canada,Social Media,13,Dashboard,0,1,50
+U0264,17-10-2025,12-09-2026,Premium,India,Referral,34,Reports,3771,0,330
+U0265,01-10-2024,06-03-2025,Free,Germany,Ads,8,Export,0,1,156
+U0266,15-09-2024,19-03-2025,Premium,Australia,Referral,36,Reports,4494,1,185
+U0267,16-02-2024,04-06-2024,Basic,USA,Ads,39,Export,740,1,109
+U0268,20-12-2023,11-05-2024,Premium,UK,Social Media,32,Export,2794,1,143
+U0269,02-07-2023,13-08-2023,Premium,Canada,Referral,88,Dashboard,4257,1,42
+U0270,09-12-2024,04-07-2025,Basic,Australia,Ads,44,Analytics,504,1,207
+U0271,06-01-2023,01-10-2023,Premium,UK,Ads,61,Export,2283,1,268
+U0272,12-12-2025,03-07-2026,Basic,Canada,Organic,17,Dashboard,312,0,203
+U0273,07-03-2025,23-06-2025,Basic,UK,Social Media,27,Dashboard,609,1,108
+U0274,19-07-2025,08-04-2026,Free,Canada,Organic,17,Automation,0,0,263
+U0275,06-04-2025,12-05-2025,Premium,India,Social Media,32,Reports,2374,1,36
+U0276,27-04-2025,23-09-2025,Free,UK,Referral,20,Export,0,1,149
+U0277,09-10-2023,01-05-2024,Premium,India,Organic,64,Export,3101,1,205
+U0278,11-06-2023,08-02-2024,Premium,Australia,Organic,66,Reports,1540,1,242
+U0279,11-05-2023,20-09-2023,Premium,Canada,Organic,94,Automation,1208,1,132
+U0280,07-04-2023,19-08-2023,Free,Germany,Ads,20,Reports,0,1,134
+U0281,29-04-2025,30-06-2025,Premium,Australia,Organic,91,Dashboard,3640,1,62
+U0282,12-07-2023,06-01-2024,Premium,Canada,Social Media,55,Export,4220,1,178
+U0283,24-11-2023,17-12-2023,Basic,USA,Social Media,31,Export,828,1,23
+U0284,04-03-2023,24-08-2023,Basic,USA,Ads,20,Dashboard,157,1,173
+U0285,12-10-2025,02-11-2025,Premium,Germany,Referral,91,Export,3649,1,21
+U0286,05-10-2024,13-02-2025,Basic,Australia,Social Media,24,Reports,195,1,131
+U0287,11-05-2025,27-09-2025,Premium,USA,Social Media,90,Analytics,2488,1,139
+U0288,08-12-2024,27-08-2025,Basic,Canada,Organic,44,Dashboard,500,1,262
+U0289,21-04-2024,24-04-2024,Free,Germany,Social Media,2,Analytics,0,1,3
+U0290,28-09-2025,06-10-2025,Basic,Germany,Ads,15,Reports,976,1,8
+U0291,24-06-2023,29-09-2023,Free,Australia,Referral,14,Automation,0,1,97
+U0292,09-11-2023,30-05-2024,Free,USA,Referral,6,Dashboard,0,1,203
+U0293,18-05-2025,19-12-2025,Free,India,Social Media,16,Export,0,1,215
+U0294,02-12-2025,22-11-2026,Premium,India,Social Media,31,Export,1724,0,355
+U0295,06-12-2025,07-10-2026,Free,Canada,Referral,14,Export,0,0,305
+U0296,30-04-2025,01-01-2026,Free,USA,Organic,9,Analytics,0,1,246
+U0297,15-05-2024,24-10-2024,Premium,UK,Ads,73,Export,2705,1,162
+U0298,05-08-2025,13-02-2026,Premium,Australia,Referral,34,Reports,1623,1,192
+U0299,02-04-2023,02-04-2023,Free,India,Organic,13,Reports,0,1,0
+U0300,09-03-2023,13-02-2024,Premium,Germany,Ads,76,Reports,3619,1,341
+U0301,28-10-2024,15-07-2025,Premium,India,Referral,84,Analytics,2299,1,260
+U0302,09-03-2025,21-06-2025,Premium,India,Organic,65,Reports,2058,1,104
+U0303,17-03-2023,30-04-2023,Free,Australia,Referral,17,Reports,0,1,44
+U0304,31-07-2025,29-08-2025,Basic,UK,Referral,36,Reports,907,1,29
+U0305,06-07-2025,15-09-2025,Basic,Australia,Ads,27,Export,498,1,71
+U0306,27-03-2024,25-05-2024,Basic,Australia,Social Media,36,Analytics,245,1,59
+U0307,03-09-2025,20-10-2025,Free,Canada,Social Media,6,Reports,0,1,47
+U0308,09-11-2023,01-12-2023,Basic,India,Referral,41,Automation,355,1,22
+U0309,13-04-2025,06-02-2026,Basic,UK,Social Media,27,Automation,966,1,299
+U0310,29-03-2024,15-02-2025,Free,UK,Ads,13,Export,0,1,323
+U0311,24-01-2023,28-01-2023,Premium,Australia,Ads,49,Export,2908,1,4
+U0312,12-09-2025,23-02-2026,Free,Australia,Referral,11,Analytics,0,1,164
+U0313,04-12-2023,25-01-2024,Basic,UK,Referral,22,Automation,167,1,52
+U0314,05-05-2023,08-08-2023,Basic,UK,Referral,46,Analytics,973,1,95
+U0315,06-04-2023,22-11-2023,Free,USA,Referral,20,Export,0,1,230
+U0316,06-02-2025,07-12-2025,Premium,Australia,Organic,63,Reports,4764,1,304
+U0317,01-02-2025,11-03-2025,Basic,Canada,Ads,44,Analytics,749,1,38
+U0318,08-11-2023,24-09-2024,Premium,Canada,Organic,95,Analytics,3401,1,321
+U0319,06-10-2023,05-02-2024,Basic,India,Ads,30,Export,319,1,122
+U0320,22-02-2023,17-01-2024,Premium,India,Ads,43,Export,4180,1,329
+U0321,31-12-2023,19-04-2024,Basic,UK,Organic,33,Dashboard,404,1,110
+U0322,11-10-2024,06-01-2025,Basic,Germany,Ads,41,Dashboard,712,1,87
+U0323,19-04-2023,08-10-2023,Free,Australia,Social Media,9,Export,0,1,172
+U0324,28-02-2025,05-08-2025,Free,USA,Organic,10,Analytics,0,1,158
+U0325,23-08-2025,07-05-2026,Basic,UK,Organic,10,Automation,858,0,257
+U0326,22-08-2024,25-07-2025,Basic,India,Referral,39,Reports,687,1,337
+U0327,25-10-2024,17-09-2025,Free,India,Ads,18,Automation,0,1,327
+U0328,21-05-2023,21-08-2023,Free,Australia,Organic,6,Export,0,1,92
+U0329,15-09-2024,07-10-2024,Premium,Australia,Ads,81,Reports,2516,1,22
+U0330,16-09-2024,27-03-2025,Premium,Canada,Organic,94,Automation,3446,1,192
+U0331,27-10-2023,13-12-2023,Basic,USA,Referral,14,Automation,546,1,47
+U0332,03-01-2024,18-10-2024,Premium,India,Social Media,47,Export,1680,1,289
+U0333,13-10-2023,06-08-2024,Free,Germany,Social Media,2,Dashboard,0,1,298
+U0334,03-07-2023,27-02-2024,Basic,Germany,Ads,32,Export,848,1,239
+U0335,06-01-2025,09-02-2025,Free,USA,Ads,5,Export,0,1,34
+U0336,16-02-2025,27-01-2026,Free,USA,Referral,18,Automation,0,1,345
+U0337,01-12-2025,05-05-2026,Free,Australia,Organic,12,Reports,0,0,155
+U0338,05-05-2025,11-09-2025,Premium,Canada,Social Media,40,Dashboard,2091,1,129
+U0339,02-03-2025,15-09-2025,Free,UK,Referral,7,Export,0,1,197
+U0340,04-06-2024,10-12-2024,Free,Australia,Referral,16,Reports,0,1,189
+U0341,03-06-2023,25-02-2024,Premium,USA,Social Media,93,Dashboard,2950,1,267
+U0342,18-03-2023,18-11-2023,Free,UK,Organic,4,Export,0,1,245
+U0343,05-02-2024,23-06-2024,Free,USA,Social Media,8,Reports,0,1,139
+U0344,07-05-2023,29-12-2023,Premium,India,Ads,92,Reports,1831,1,236
+U0345,15-12-2024,28-08-2025,Free,USA,Referral,3,Automation,0,1,256
+U0346,05-11-2024,16-10-2025,Basic,Germany,Social Media,37,Automation,583,1,345
+U0347,26-02-2025,26-05-2025,Free,India,Social Media,18,Analytics,0,1,89
+U0348,05-04-2025,27-07-2025,Basic,Germany,Social Media,38,Automation,708,1,113
+U0349,23-01-2025,19-12-2025,Premium,Australia,Ads,64,Automation,4292,1,330
+U0350,21-09-2024,15-09-2025,Premium,Australia,Social Media,30,Automation,2110,1,359
+U0351,30-05-2024,26-09-2024,Premium,Germany,Social Media,94,Export,1319,1,119
+U0352,28-02-2024,29-02-2024,Basic,Australia,Organic,44,Analytics,527,1,1
+U0353,21-02-2023,30-05-2023,Basic,UK,Social Media,17,Analytics,713,1,98
+U0354,04-05-2024,14-04-2025,Premium,Canada,Ads,31,Automation,3049,1,345
+U0355,22-09-2023,07-09-2024,Free,USA,Referral,3,Dashboard,0,1,351
+U0356,18-10-2025,20-03-2026,Free,UK,Social Media,6,Automation,0,1,153
+U0357,22-04-2025,27-01-2026,Basic,USA,Organic,30,Analytics,163,1,280
+U0358,10-02-2023,15-12-2023,Premium,Canada,Referral,94,Analytics,4830,1,308
+U0359,01-04-2024,07-11-2024,Basic,India,Organic,25,Reports,483,1,220
+U0360,14-07-2024,27-08-2024,Premium,Canada,Social Media,54,Dashboard,2961,1,44
+U0361,18-08-2024,14-07-2025,Free,USA,Organic,11,Dashboard,0,1,330
+U0362,11-06-2024,30-10-2024,Basic,Germany,Social Media,39,Automation,291,1,141
+U0363,19-12-2024,05-06-2025,Premium,UK,Social Media,42,Reports,3840,1,168
+U0364,06-05-2024,26-02-2025,Premium,UK,Referral,72,Export,2519,1,296
+U0365,12-04-2024,15-12-2024,Basic,USA,Social Media,43,Dashboard,212,1,247
+U0366,09-04-2025,19-05-2025,Basic,India,Referral,16,Dashboard,282,1,40
+U0367,18-12-2024,24-08-2025,Premium,Germany,Organic,57,Reports,2696,1,249
+U0368,14-10-2025,24-10-2025,Free,Germany,Ads,17,Export,0,1,10
+U0369,01-06-2025,23-11-2025,Premium,Germany,Organic,80,Analytics,2238,1,175
+U0370,07-10-2024,01-02-2025,Basic,USA,Social Media,46,Analytics,491,1,117
+U0371,28-12-2024,03-11-2025,Free,Germany,Social Media,2,Analytics,0,1,310
+U0372,11-02-2025,11-10-2025,Premium,Canada,Referral,83,Reports,3641,1,242
+U0373,16-01-2023,11-11-2023,Basic,UK,Social Media,26,Analytics,559,1,299
+U0374,23-11-2025,19-06-2026,Free,India,Organic,4,Reports,0,0,208
+U0375,12-08-2025,28-11-2025,Basic,UK,Social Media,29,Automation,618,1,108
+U0376,07-10-2025,10-03-2026,Premium,Germany,Ads,100,Dashboard,3860,1,154
+U0377,26-11-2025,03-10-2026,Premium,Canada,Referral,53,Automation,2123,0,311
+U0378,18-11-2023,16-11-2024,Free,Canada,Ads,19,Reports,0,1,364
+U0379,23-09-2025,01-05-2026,Free,Germany,Referral,9,Automation,0,0,220
+U0380,24-09-2023,23-10-2023,Premium,Canada,Social Media,75,Automation,1547,1,29
+U0381,19-05-2025,07-12-2025,Free,Germany,Organic,12,Export,0,1,202
+U0382,08-12-2023,18-02-2024,Basic,Canada,Organic,36,Export,248,1,72
+U0383,15-12-2025,06-11-2026,Basic,Canada,Organic,38,Reports,395,0,326
+U0384,06-12-2023,06-08-2024,Free,UK,Social Media,14,Export,0,1,244
+U0385,15-09-2024,24-11-2024,Premium,UK,Social Media,30,Export,4827,1,70
+U0386,07-12-2024,12-09-2025,Basic,Germany,Ads,27,Automation,345,1,279
+U0387,28-04-2024,17-09-2024,Basic,India,Organic,39,Analytics,398,1,142
+U0388,04-11-2023,11-08-2024,Basic,Australia,Social Media,26,Reports,750,1,281
+U0389,05-12-2023,07-04-2024,Free,India,Social Media,14,Dashboard,0,1,124
+U0390,19-09-2023,14-05-2024,Basic,Germany,Organic,26,Automation,123,1,238
+U0391,07-02-2023,13-11-2023,Basic,USA,Ads,14,Dashboard,368,1,279
+U0392,20-03-2024,22-02-2025,Basic,Australia,Social Media,49,Reports,959,1,339
+U0393,26-02-2024,22-04-2024,Free,Australia,Social Media,17,Dashboard,0,1,56
+U0394,02-01-2023,01-03-2023,Basic,India,Social Media,20,Analytics,510,1,58
+U0395,11-05-2023,21-07-2023,Premium,Australia,Ads,65,Analytics,4933,1,71
+U0396,22-12-2023,22-09-2024,Premium,Australia,Organic,50,Export,4372,1,275
+U0397,17-11-2025,14-08-2026,Basic,India,Organic,24,Dashboard,260,0,270
+U0398,04-06-2025,19-12-2025,Free,Canada,Organic,10,Reports,0,1,198
+U0399,14-03-2024,29-09-2024,Premium,Australia,Organic,78,Export,1801,1,199
+U0400,01-08-2023,17-04-2024,Free,Canada,Social Media,8,Automation,0,1,260
+U0401,23-08-2024,21-08-2025,Basic,Australia,Referral,43,Reports,199,1,363
+U0402,27-01-2024,08-02-2024,Free,Canada,Referral,13,Export,0,1,12
+U0403,06-08-2025,31-03-2026,Free,UK,Organic,13,Automation,0,1,237
+U0404,16-08-2025,19-09-2025,Free,Canada,Referral,13,Analytics,0,1,34
+U0405,16-05-2024,08-10-2024,Free,Australia,Social Media,8,Automation,0,1,145
+U0406,14-07-2023,17-03-2024,Basic,UK,Ads,40,Automation,270,1,247
+U0407,21-01-2025,29-06-2025,Free,USA,Social Media,6,Dashboard,0,1,159
+U0408,26-08-2023,08-03-2024,Basic,Germany,Social Media,32,Export,442,1,195
+U0409,16-07-2023,09-09-2023,Free,USA,Social Media,9,Automation,0,1,55
+U0410,02-05-2023,24-08-2023,Basic,USA,Organic,32,Automation,586,1,114
+U0411,07-10-2025,13-04-2026,Basic,UK,Referral,46,Dashboard,902,0,188
+U0412,22-04-2023,02-06-2023,Basic,USA,Social Media,30,Reports,372,1,41
+U0413,01-06-2025,08-08-2025,Basic,UK,Referral,50,Analytics,580,1,68
+U0414,04-08-2023,10-04-2024,Premium,USA,Referral,65,Automation,4243,1,250
+U0415,06-02-2023,27-03-2023,Basic,UK,Social Media,32,Analytics,998,1,49
+U0416,06-04-2025,30-10-2025,Premium,USA,Ads,37,Analytics,2986,1,207
+U0417,28-04-2024,16-07-2024,Premium,USA,Ads,60,Automation,2912,1,79
+U0418,11-06-2025,17-03-2026,Premium,Australia,Organic,34,Analytics,3366,1,279
+U0419,14-11-2024,13-06-2025,Basic,UK,Organic,31,Automation,382,1,211
+U0420,09-12-2025,30-11-2026,Premium,India,Organic,86,Export,4121,0,356
+U0421,13-06-2025,13-02-2026,Premium,UK,Referral,46,Automation,3218,1,245
+U0422,26-08-2025,30-10-2025,Free,Australia,Ads,12,Automation,0,1,65
+U0423,13-04-2025,18-09-2025,Free,Germany,Social Media,10,Analytics,0,1,158
+U0424,11-03-2025,27-09-2025,Free,Germany,Social Media,16,Dashboard,0,1,200
+U0425,11-03-2025,15-03-2025,Free,Canada,Organic,1,Dashboard,0,1,4
+U0426,04-08-2025,06-09-2025,Free,Canada,Organic,5,Export,0,1,33
+U0427,08-06-2024,13-02-2025,Basic,UK,Social Media,32,Analytics,424,1,250
+U0428,13-11-2024,29-08-2025,Free,India,Social Media,3,Automation,0,1,289
+U0429,08-10-2024,23-10-2024,Free,Germany,Social Media,6,Reports,0,1,15
+U0430,02-06-2025,03-05-2026,Premium,UK,Referral,50,Reports,2372,0,335
+U0431,18-01-2025,17-10-2025,Basic,India,Ads,32,Reports,457,1,272
+U0432,19-02-2023,10-03-2023,Premium,Germany,Social Media,77,Dashboard,4322,1,19
+U0433,26-02-2025,30-11-2025,Free,USA,Referral,15,Export,0,1,277
+U0434,23-10-2023,02-09-2024,Free,India,Social Media,10,Export,0,1,315
+U0435,28-09-2023,24-03-2024,Free,UK,Social Media,16,Automation,0,1,178
+U0436,10-08-2024,25-10-2024,Premium,UK,Social Media,98,Export,2869,1,76
+U0437,16-07-2024,31-10-2024,Free,India,Social Media,6,Dashboard,0,1,107
+U0438,27-01-2024,02-05-2024,Basic,UK,Social Media,43,Automation,942,1,96
+U0439,31-10-2025,24-10-2026,Premium,India,Social Media,97,Reports,4892,0,358
+U0440,22-12-2025,18-08-2026,Basic,Australia,Ads,36,Automation,178,0,239
+U0441,24-11-2024,05-07-2025,Free,Canada,Social Media,3,Export,0,1,223
+U0442,26-03-2023,10-03-2024,Premium,USA,Referral,55,Reports,2137,1,350
+U0443,22-07-2024,13-08-2024,Premium,Australia,Referral,98,Automation,3844,1,22
+U0444,18-08-2024,09-02-2025,Premium,USA,Organic,36,Analytics,4754,1,175
+U0445,02-02-2023,20-05-2023,Free,Canada,Referral,20,Export,0,1,107
+U0446,16-05-2025,08-05-2026,Basic,India,Referral,48,Export,566,0,357
+U0447,21-07-2024,23-06-2025,Basic,Canada,Ads,20,Automation,309,1,337
+U0448,28-09-2024,09-01-2025,Free,Australia,Referral,6,Dashboard,0,1,103
+U0449,21-01-2024,16-10-2024,Premium,Canada,Referral,88,Analytics,4100,1,269
+U0450,20-03-2023,14-07-2023,Basic,USA,Referral,36,Automation,948,1,116
+U0451,14-04-2023,01-12-2023,Basic,UK,Organic,41,Export,875,1,231
+U0452,14-03-2023,20-06-2023,Free,India,Social Media,12,Export,0,1,98
+U0453,20-02-2023,25-06-2023,Free,Canada,Organic,17,Reports,0,1,125
+U0454,04-06-2024,31-03-2025,Basic,Germany,Referral,47,Dashboard,150,1,300
+U0455,11-01-2025,31-12-2025,Free,Germany,Social Media,18,Reports,0,1,354
+U0456,22-06-2024,16-11-2024,Basic,USA,Referral,23,Export,957,1,147
+U0457,09-05-2025,21-12-2025,Premium,Canada,Referral,61,Export,2207,1,226
+U0458,19-01-2023,03-09-2023,Premium,Australia,Social Media,56,Reports,4741,1,227
+U0459,01-03-2025,16-09-2025,Premium,India,Ads,33,Reports,1934,1,199
+U0460,23-10-2023,21-01-2024,Basic,UK,Social Media,29,Dashboard,788,1,90
+U0461,09-07-2023,15-05-2024,Basic,India,Social Media,18,Export,390,1,311
+U0462,12-05-2023,17-09-2023,Free,Germany,Ads,12,Automation,0,1,128
+U0463,03-12-2025,22-11-2026,Premium,Canada,Social Media,88,Automation,3278,0,354
+U0464,18-09-2024,25-08-2025,Basic,Australia,Social Media,48,Analytics,561,1,341
+U0465,07-08-2025,29-05-2026,Basic,India,Ads,28,Dashboard,645,0,295
+U0466,13-12-2023,05-10-2024,Free,Australia,Referral,20,Automation,0,1,297
+U0467,28-03-2023,09-10-2023,Basic,India,Organic,36,Automation,550,1,195
+U0468,05-06-2024,02-05-2025,Basic,India,Organic,19,Dashboard,622,1,331
+U0469,24-11-2023,09-03-2024,Basic,USA,Referral,46,Export,122,1,106
+U0470,05-01-2025,21-08-2025,Basic,India,Organic,49,Analytics,412,1,228
+U0471,18-11-2024,04-05-2025,Free,Canada,Organic,14,Export,0,1,167
+U0472,13-02-2025,01-02-2026,Free,Germany,Ads,7,Automation,0,1,353
+U0473,16-07-2024,11-10-2024,Basic,Germany,Ads,36,Dashboard,781,1,87
+U0474,28-07-2023,26-08-2023,Basic,Australia,Social Media,25,Export,341,1,29
+U0475,24-10-2025,12-05-2026,Basic,UK,Referral,41,Export,823,0,200
+U0476,05-01-2023,10-08-2023,Free,USA,Social Media,11,Reports,0,1,217
+U0477,16-10-2023,29-06-2024,Premium,USA,Ads,95,Export,2350,1,257
+U0478,08-11-2025,19-01-2026,Basic,Australia,Social Media,43,Dashboard,808,1,72
+U0479,21-01-2025,08-04-2025,Premium,Canada,Referral,64,Reports,1666,1,77
+U0480,14-03-2023,29-11-2023,Basic,USA,Ads,44,Export,114,1,260
+U0481,20-12-2023,14-12-2024,Free,UK,Organic,8,Export,0,1,360
+U0482,17-03-2023,01-10-2023,Free,Australia,Social Media,19,Export,0,1,198
+U0483,13-05-2024,11-04-2025,Free,Canada,Social Media,18,Reports,0,1,333
+U0484,29-04-2023,19-03-2024,Premium,USA,Ads,99,Automation,4755,1,325
+U0485,04-09-2024,06-10-2024,Basic,UK,Social Media,17,Dashboard,142,1,32
+U0486,07-06-2023,15-07-2023,Premium,Germany,Social Media,45,Dashboard,2038,1,38
+U0487,25-12-2025,28-08-2026,Basic,Germany,Organic,30,Automation,606,0,246
+U0488,02-02-2023,31-01-2024,Premium,USA,Referral,43,Dashboard,4181,1,363
+U0489,02-03-2023,10-10-2023,Free,Canada,Social Media,2,Analytics,0,1,222
+U0490,08-04-2025,26-02-2026,Basic,Australia,Referral,48,Reports,211,1,324
+U0491,28-01-2023,14-05-2023,Free,USA,Referral,19,Dashboard,0,1,106
+U0492,06-02-2024,15-02-2024,Free,Canada,Social Media,20,Automation,0,1,9
+U0493,12-11-2025,25-11-2025,Free,UK,Social Media,19,Automation,0,1,13
+U0494,22-09-2024,04-11-2024,Free,Australia,Organic,3,Automation,0,1,43
+U0495,04-02-2023,25-02-2023,Basic,India,Social Media,29,Automation,518,1,21
+U0496,04-11-2025,03-09-2026,Premium,USA,Social Media,50,Automation,4931,0,303
+U0497,10-12-2025,09-01-2026,Free,Canada,Ads,8,Automation,0,1,30
+U0498,03-04-2023,07-10-2023,Premium,Germany,Organic,97,Dashboard,4085,1,187
+U0499,24-06-2025,09-05-2026,Basic,UK,Referral,43,Analytics,768,0,319
+U0500,15-03-2023,01-10-2023,Basic,USA,Ads,34,Automation,270,1,200
